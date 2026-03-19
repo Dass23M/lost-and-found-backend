@@ -191,7 +191,7 @@ This API is deployed on Railway.
 
 ## Author
 
-Developed by [Your Name]
+Developed by [Dasun Methmal]
 
 ## License
 
